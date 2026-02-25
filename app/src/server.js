@@ -1,3 +1,6 @@
+const { setupTelemetry } = require("./telemetry");
+setupTelemetry();
+
 const { createApp } = require("./app");
 
 const app = createApp();
