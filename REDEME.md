@@ -98,8 +98,7 @@ Git Workflow
     Feature branches (feature/...)
     Pull Requests
     Powiązania commitów z issue (Closes #X)
-
-    CI testfwdfwfw
+CI
 
 
 
