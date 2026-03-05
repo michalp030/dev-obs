@@ -1,4 +1,3 @@
-#a
 const express = require("express");
 
 function createApp() {
