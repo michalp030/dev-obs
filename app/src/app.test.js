@@ -1,4 +1,3 @@
-#a
 const request = require("supertest");
 const { createApp } = require("../src/app");
 
