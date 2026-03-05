@@ -99,7 +99,7 @@ Git Workflow
     Pull Requests
     Powiązania commitów z issue (Closes #X)
 
-    CI test
+    CI testfwdfwfw
 
 
 
