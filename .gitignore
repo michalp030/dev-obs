@@ -4,4 +4,3 @@ test-results/
 .env
 .DS_Store
 npm-debug.log*
-e
